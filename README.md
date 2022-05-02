@@ -1,4 +1,4 @@
-# Econ470 Final Project
+# Does Medicaid crowd-out Private Health Insurance?
 
 This repository provides the necessary code and links to download and organize selected insurance data from the ACS taken from the ACS through an API and Medicaid expansion data from the Kaiser Family Foundation. 
 
